@@ -1,1 +1,4 @@
 Connecting the database to a cloud so it could be shared across devices and used by multiple people.
+What I asked: Connect the local file to a safe cloud server so I can share it with others and if I allow them they can edit the database.
+AI error: Wouldn't connect to cloud.
+What I changed: Updated the code and added server information to connect it.
