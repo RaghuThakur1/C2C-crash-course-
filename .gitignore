@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+clubSignUp.db
+__pycache__/
+.venv/
